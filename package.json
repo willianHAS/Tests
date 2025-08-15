@@ -1,1 +1,23 @@
-
+{
+  "name": "tests",
+  "version": "1.0.0",
+  "description": "",
+  "main": "cypress.config.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/willianHAS/Tests.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/willianHAS/Tests/issues"
+  },
+  "homepage": "https://github.com/willianHAS/Tests#readme",
+  "devDependencies": {
+    "@4tw/cypress-drag-drop": "^2.3.0"
+  }
+}
